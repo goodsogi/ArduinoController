@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ArduinoControllerActivity">
+
+    <HorizontalScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="0px"
+        android:layout_weight="1"
+        android:id="@+id/horizontalScrollView"
+        android:layout_alignParentRight="true"
+        android:layout_above="@+id/line_button">
+        <view
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            class="im.dacer.androidcharts.LineView"
+            android:id="@+id/line_view"/>
+    </HorizontalScrollView>
+
+
+    <Button
+        android:id="@+id/chartButton"
+        android:layout_width="match_parent"
+        android:layout_height="70dip"
+        android:text="@string/drawChart"
+        android:textSize="14sp" />
+
+
+</LinearLayout>

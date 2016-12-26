@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/bagjeong-gyu/AndroidStudioProjects/ArduinoController/app/build/intermediates/res/merged/debug/drawable/popup_red.9.png",
+        "source": "/Users/bagjeong-gyu/AndroidStudioProjects/ArduinoController/app/build/intermediates/exploded-aar/im.dacer/AndroidCharts/1.0.1/res/drawable/popup_red.9.png"
+    },
+    {
+        "merged": "/Users/bagjeong-gyu/AndroidStudioProjects/ArduinoController/app/build/intermediates/res/merged/debug/drawable/popup_green.9.png",
+        "source": "/Users/bagjeong-gyu/AndroidStudioProjects/ArduinoController/app/build/intermediates/exploded-aar/im.dacer/AndroidCharts/1.0.1/res/drawable/popup_green.9.png"
+    },
+    {
+        "merged": "/Users/bagjeong-gyu/AndroidStudioProjects/ArduinoController/app/build/intermediates/res/merged/debug/drawable/popup_blue.9.png",
+        "source": "/Users/bagjeong-gyu/AndroidStudioProjects/ArduinoController/app/build/intermediates/exploded-aar/im.dacer/AndroidCharts/1.0.1/res/drawable/popup_blue.9.png"
+    }
+]
